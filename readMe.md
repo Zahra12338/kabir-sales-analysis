@@ -4,7 +4,7 @@
 
 ---
 
-## Business Sceneria
+## Business Scenerio
 
 You have been hired as a Junior Data Analyst at Kabir Retail Solutions.
 
@@ -209,6 +209,6 @@ git push -u origin main
 * Do not submit without a properly written README
 * Your GitHub repository is your submission
 
-* Submit your repository through the form [here]
+* Submit your repository through the form [here](https://forms.office.com/r/xeYnafVvWV)
 
 
