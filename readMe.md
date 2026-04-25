@@ -29,7 +29,7 @@ Transform the raw dataset into a clear business report using:
 This assignment tests both your **technical skills** and your **ability to present insights clearly**.
 
 
-## Getting the Data (MANDATORY — CLI)
+## Getting the Data (MANDATORY — Command Line Interface (CLI))
 
 You must download the dataset using Git (Command Line).
 
@@ -38,11 +38,11 @@ You must download the dataset using Git (Command Line).
 Run the following command in your terminal:
 
 ```bash
-git clone https://github.com/<your-username-or-org>/kabir-retail-data.git
+git clone https://github.com/IOTB-DATA-STACK/Assignments.git
 ```
 ### Step 2: Navigate into the Folder
 
-`cd kabir-retail-data`
+`cd Assignments`
 
 ### Step 3: Locate the Dataset
 
@@ -60,9 +60,9 @@ Recreate all summary tables provided in the dataset.
 
 ### Part 2: Data Analysis (Using Only Taught Functions)
 
-You must use only the following Excel functions:
+You must use only the Excel functions taught so far:
 
-`SUM, COUNTIF, SUMIF, MIN, MAX, AVERAGE, COUNT, COUNTA`
+Like `SUM, COUNTIF, SUMIF, MIN, MAX, AVERAGE, COUNT, COUNTA` amongst others.
 
 Answer the following:
 
@@ -91,7 +91,7 @@ Answer the following:
 ---
 ### Part 3: Conditional Formatting (Business Alert)
 
-Apply Conditional Formatting to the **Revenue** column:
+Apply Conditional Formatting to the **Amount** column:
 
 - Values **> 15,000 → Green (High Value)**
 - Values **< 6,000 → Red (Low Value)**
@@ -209,6 +209,6 @@ git push -u origin main
 * Do not submit without a properly written README
 * Your GitHub repository is your submission
 
-* Submit your repository through the link [here]
+* Submit your repository through the form [here]
 
 
